@@ -1,3 +1,5 @@
+# .env - Environment variables (add to .gitignore)
+BOT_TOKEN=7554530234:AAFaSDdysUnh35_NqzQ4XKBF3iKvH3O_AO8
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
